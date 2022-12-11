@@ -4,4 +4,4 @@ Supervised: The labels are included in the training data and the goal is to trai
 
 Classification: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
 
-Installing
+Performed Optimized for choosing the best algorithm amongst LogisticRegression ,RandomForestClassifier and XGBClassifier, XBoost is currently the best chosen model with accuracy 92% on test data .
